@@ -1,29 +1,11 @@
-# Hugo build output folder
-/public/
-
-# Hugo cache and resource folders
-/resources/_gen/
-/resources/_gen_old/
-
-/node_modules/
-/npm-debug.log
-/yarn-error.log
-
-# Dependency directories
-/vendor/
-
-# IDE/editor files
-.vscode/
-.idea/
-*.swp
-*~
-
-# OS generated files
-.DS_Store
 Thumbs.db
-
-# Logs
-*.log
-
-# Env files
-.env
+.DS_Store
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+Public
+resources
