@@ -1,33 +1,51 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
+title: "Privacy Policy"
+description: "Privacy policy for HosenPack Packaging Solutions"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+At HosenPack, we respect your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, and safeguard your data when you interact with our website and services.
 
-### Product Buy & delivery policy
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+### Information We Collect
 
-### Product Buy & delivery policy
+---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+1. **Personal Information:** When you place an order or contact us, we may collect your name, email address, phone number, and shipping address.
+2. **Payment Information:** For advance payments via bKash, we collect only the necessary transaction details. We do not store sensitive payment data like PINs or passwords.
+3. **Usage Data:** We may collect non-personal data such as browser type, IP address, and pages visited to improve our website and services.
 
-### Refund Policy
+### How We Use Your Information
+---
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1. To process and fulfill your orders efficiently.
+2. To communicate with you regarding your orders, inquiries, or support requests.
+3. To improve our products, services, and website experience.
+4. To comply with legal obligations and protect against fraud.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### Data Security
+---
 
-### Why We Support:
+We implement appropriate technical and organizational measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction.
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+### Sharing Your Information
+---
+
+We do not sell or rent your personal information to third parties. Your data may be shared only with trusted partners or service providers essential for order fulfillment (e.g., delivery services).
+
+### Your Rights
+---
+
+You have the right to access, update, or delete your personal information. For any requests or concerns about your data, please contact us at hosenpack@gmail.com.
+
+### Cookies
+---
+
+Our website uses cookies to enhance user experience. You can control or disable cookies through your browser settings; however, some features may not function properly if cookies are disabled.
+
+### Changes to This Policy
+---
+
+We may update this privacy policy periodically. Any changes will be posted on this page with an updated effective date.
+
+Thank you for trusting HosenPack with your packaging needs. Your privacy is important to us.

@@ -11,10 +11,10 @@ name = "Products"
 url = "products/"
 weight = 2
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 3
+# [[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 3
 
 [[main]]
 name = "Review"
@@ -28,10 +28,10 @@ url = "contact/"
 weight = 5
 
 # footer menu
-[[footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
+# [[footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
 
 [[footer]]
 name = "Contact"
