@@ -18,29 +18,29 @@ features:
   # feature at the left of the image
   left_side:
     - title: "Custom Solutions"
-      icon: "tf-ion-ios-alarm-outline"
+      icon: "tf-ion-ios-box-outline"
       content: "From labels to customized cardboard, we create packaging that fits your unique business needs."
 
     - title: "Quality Materials"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-checkmark-outline"
       content: "We use durable, eco-friendly materials to ensure your packaging protects your products and your brand reputation."
 
     - title: "Affordable Pricing"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-pricetags"
       content: "Our competitive prices help you get professional packaging without breaking your budget."
 
   # feature at the right of the image
   right_side:
     - title: "Fast Turnaround"
-      icon: "tf-ion-ios-alarm-outline"
+      icon: "tf-ion-ios-speedometer-outline"
       content: "We understand time is money — that’s why we deliver your orders promptly, every time."
 
     - title: "Expert Support"
-      icon: "tf-ion-ios-bell-outline"
+      icon: "tf-ion-ios-people-outline"
       content: "Our team is here to guide you through the process and offer packaging advice tailored to your business."
 
     - title: "Wide Range"
-      icon: "tf-ion-ios-cart-outline"
+      icon: "tf-ion-android-options"
       content: "Whatever your packaging needs, we have solutions — labels, stickers, boxes, and more."
 
 ############################# promo ############################
