@@ -1,3 +1,6 @@
+
+baseURL = "https://your-site-name.netlify.app/"  # For production
+
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
