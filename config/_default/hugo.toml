@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://your-site-name.netlify.app/"
+baseurl = "https://hosenpack.netlify.app/"
 title = "HosenPack | Pack Easy"
 theme = "vex-hugo"
 # post excert
