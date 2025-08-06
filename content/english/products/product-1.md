@@ -1,27 +1,39 @@
 ---
-title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
+title: "Perfume Packaging Box"
+date: 2025-08-06T10:00:00+06:00
 images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "/images/showcase/perfume/hp-d-1.png"
+  - "/images/showcase/perfume/hp-d-2.png"
+  - "/images/showcase/perfume/hp-d-3.png"
+  - "/images/showcase/perfume/hp-d-4.png"
 
 # meta description
-description : "this is meta description"
+description: "Fully customizable luxury perfume packaging by Hosenpack — tailored to suit any brand aesthetic and bottle size."
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "20"
+discount_price: ""
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+colors: ["Customizable"]
+sizes: ["Customizable"]
 
-# button link if you don't want to use snipcart. empty link will not show button
+# button link
 button_link: "#"
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+#### Create a lasting impression with Hosenpack’s custom perfume packaging solutions. Make your perfume unforgettable — inside and out.
+---
+
+- Fully **customizable** in color, size, and finish  
+- Premium materials with options like matte, gloss, and textured surfaces  
+- Add-ons: embossing, foil stamping, spot UV, and more  
+- Secure structural design to protect bottles during shipping or display  
+- Sustainable packaging options available  
+- Low minimum order quantity available for startups
+
+---
+
+#### Pricing: Starts from BDT 20 — final pricing depends on box style, finish, and quantity.
