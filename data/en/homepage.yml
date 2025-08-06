@@ -83,7 +83,7 @@ products:
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Stay Updated with HosenPack"
   content: "Subscribe to receive the latest updates on our innovative packaging products and special offers."
