@@ -2,10 +2,10 @@
 title: "Perfume Packaging Box"
 date: 2025-08-06T10:00:00+06:00
 images: 
-  - "/images/showcase/perfume/hp-d-1.png"
-  - "/images/showcase/perfume/hp-d-2.png"
-  - "/images/showcase/perfume/hp-d-3.png"
-  - "/images/showcase/perfume/hp-d-4.png"
+  - "/images/showcase/perfume/hp-d-1.webp"
+  - "/images/showcase/perfume/hp-d-2.webp"
+  - "/images/showcase/perfume/hp-d-3.webp"
+  - "/images/showcase/perfume/hp-d-4.webp"
 
 # meta description
 description: "Fully customizable luxury perfume packaging by Hosenpack — tailored to suit any brand aesthetic and bottle size."
