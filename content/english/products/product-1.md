@@ -11,7 +11,7 @@ images:
 description: "Fully customizable luxury perfume packaging by Hosenpack — tailored to suit any brand aesthetic and bottle size."
 
 # product Price
-price: "20"
+price: "12"
 discount_price: ""
 
 # product variation
@@ -36,4 +36,10 @@ draft: false
 
 ---
 
-#### Pricing: Starts from BDT 20 — final pricing depends on box style, finish, and quantity.
+#### Pricing:
+- **BDT 12** for MOQ 100  
+- **BDT 11** for 300+  
+- **BDT 10** for 500+
+---
+
+###### **Final pricing may vary based on customization, finish, and add-ons.**
